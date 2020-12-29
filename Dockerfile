@@ -1,4 +1,4 @@
-FROM arm64v8/tomcat:8.5-jdk15-openjdk-oracle
+FROM arm64v8/tomcat
 MAINTAINER Karl Dahlgren <karl.dahlgren@castlemock.com>
 
 # Delete the default applications
