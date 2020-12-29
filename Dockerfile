@@ -1,4 +1,4 @@
-FROM tomcat:8.5-jdk11-openjdk
+FROM tomcat:jdk8-corretto
 MAINTAINER Karl Dahlgren <karl.dahlgren@castlemock.com>
 
 # Delete the default applications
